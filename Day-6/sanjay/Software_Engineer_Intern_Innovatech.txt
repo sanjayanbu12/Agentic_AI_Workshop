@@ -1,0 +1,23 @@
+Job Posting: Software Engineer Intern
+
+Company: Innovatech Solutions
+
+Location: Bangalore, India (Hybrid)
+
+Role Description:
+Innovatech Solutions is seeking a motivated Software Engineer Intern to join our dynamic product development team. The intern will contribute to the design, development, and testing of our flagship cloud analytics platform. This is a hands-on role where you will work closely with senior engineers and gain experience in the full software development lifecycle. Responsibilities include writing clean, maintainable code in Python and participating in agile/scrum ceremonies.
+
+Eligibility:
+- Currently pursuing a Bachelor's or Master's degree in Computer Science or a related field.
+- Must be graduating in 2026 or 2027.
+- Strong understanding of data structures, algorithms, and object-oriented programming.
+- Familiarity with Python and a web framework like Django or Flask is required.
+- Basic knowledge of cloud platforms (AWS, GCP, or Azure) is a plus.
+
+Application Deadline: August 15, 2025
+
+Benefits:
+- Competitive monthly stipend.
+- Mentorship from experienced software engineers.
+- Opportunity to work on a real-world, impactful project.
+- Certificate of successful internship completion and a potential for a full-time offer.

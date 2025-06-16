@@ -1,0 +1,124 @@
+Job Title: Data Analyst Intern
+Company: Cognizant
+Location: Coimbatore, India
+Job Type: Internship, Full-Time
+
+Description:
+Cognizant is looking for motivated Data Analyst Interns to join our digital operations team in Coimbatore. In this role, you will work with large datasets to derive business insights, create data visualizations, and support our project teams with data-driven recommendations. This is an excellent opportunity to gain hands-on experience in a leading global technology company.
+
+Eligibility Criteria:
+- Currently pursuing a B.E/B.Tech in Computer Science, Information Technology, or a related field.
+- Expected to graduate in 2026.
+- Strong foundational knowledge of SQL and databases.
+- Familiarity with a programming language like Python is a plus.
+- Excellent analytical and problem-solving skills.
+- Must be able to work from our Coimbatore office.
+
+Key Responsibilities:
+- Assisting with data collection, cleaning, and preprocessing.
+- Developing and maintaining dashboards and reports using tools like Power BI or Tableau.
+- Performing exploratory data analysis to identify trends and patterns.
+- Collaborating with senior analysts and project managers.
+
+Benefits:
+- Competitive monthly stipend.
+- Mentorship from experienced data professionals.
+- Potential for a full-time offer upon successful completion of the internship.
+- Access to Cognizant's internal training and certification programs.
+
+Application Deadline: December 15, 2025
+
+Job Title: Data Analyst Intern
+Company: Cognizant
+Location: Coimbatore, India
+Job Type: Internship, Full-Time (40 hours/week)
+
+Description:
+Cognizant is looking for motivated and detail-oriented Data Analyst Interns to join our dynamic digital operations team in our state-of-the-art Coimbatore facility. In this role, you will be at the heart of our data-driven decision-making process. You will work with vast datasets to uncover business insights, build compelling data visualizations, and directly support our project teams with actionable recommendations. This is an exceptional opportunity to gain hands-on experience, learn industry-standard tools, and understand the full lifecycle of data analytics in a leading global technology company.
+
+Eligibility Criteria:
+- Currently pursuing a B.E/B.Tech in Computer Science, Information Technology, Statistics, or a related quantitative field.
+- Expected to graduate in 2026.
+- Strong foundational knowledge of SQL and relational databases.
+- Familiarity with a programming language like Python (especially with Pandas/NumPy libraries) is a plus.
+- Excellent analytical, problem-solving, and communication skills.
+- Must be authorized to work in India and be able to work from our Coimbatore office.
+
+Preferred Qualifications:
+- Prior project experience (academic or personal) involving data analysis or visualization.
+- Experience with at least one data visualization tool (e.g., Power BI, Tableau, Google Data Studio).
+- Basic understanding of statistical concepts.
+- A strong desire to learn and a proactive attitude.
+
+Key Responsibilities:
+- Assisting with the end-to-end process of data collection, cleaning, and preprocessing to ensure data integrity.
+- Developing, automating, and maintaining interactive dashboards and reports using tools like Power BI or Tableau.
+- Performing exploratory data analysis to identify significant trends, patterns, and anomalies.
+- Collaborating with senior analysts and project managers to understand requirements and present findings clearly.
+- Documenting data sources, methodologies, and results.
+
+Benefits:
+- Competitive monthly stipend.
+- Structured mentorship program with experienced data professionals.
+- Potential for a full-time offer (Pre-Placement Offer - PPO) upon successful completion of the internship.
+- Full access to Cognizant's extensive internal training and industry certification programs.
+- Networking opportunities with company leaders and fellow interns.
+
+Interview Process:
+1. Online Assessment: A timed test covering logical reasoning, quantitative aptitude, and basic technical skills (SQL, Python).
+2. Technical Interview: A one-on-one interview with a senior analyst to discuss your technical projects, and test your problem-solving and SQL skills.
+3. HR Interview: A final round to assess your cultural fit, communication skills, and passion for a career in data.
+
+Company Culture:
+At Cognizant, we are a high-performing team that values collaboration, innovation, and continuous learning. We foster an inclusive environment where diverse perspectives are celebrated. As an intern, you are considered a full member of the team, and your contributions are valued from day one.
+
+Application Deadline: December 15, 2025
+
+
+Job Title: Software Development Engineer Intern
+Company: Amazon
+Location: Bangalore, India
+Job Type: Internship (3-6 months)
+
+Description:
+Amazon is seeking passionate and talented Software Development Engineer (SDE) Interns to join our various teams in Bangalore. As an SDE Intern, you will have the opportunity to work on complex computer science solutions to build and scale systems for our customers. You will be matched to a specific team and project, and you will have the support of a mentor and a manager. This is a chance to have a real impact on Amazon's products and services.
+
+Eligibility Criteria:
+- Currently enrolled in a Bachelor's or Master's degree in Computer Science, Computer Engineering, or a related technical field.
+- Expected to graduate in 2026 or 2027.
+- Proficient in at least one object-oriented programming language such as Java, C++, or Python.
+- Strong understanding of fundamental data structures, algorithms, and object-oriented design.
+- Excellent problem-solving skills and the ability to think critically about system design.
+- Must be able to complete a full-time internship for a duration of 3 to 6 months.
+
+Preferred Qualifications:
+- Experience with web technologies (e.g., HTML, CSS, JavaScript, React).
+- Previous internship experience or personal projects in software development.
+- Knowledge of distributed systems and cloud computing (AWS is a big plus).
+- Familiarity with agile development methodologies.
+
+Key Responsibilities:
+- Writing high-quality, maintainable, and robust code in languages like Java or Python.
+- Collaborating with experienced SDEs to design and implement new features.
+- Participating in code reviews to learn and improve coding standards.
+- Testing your code thoroughly to ensure it is bug-free and performant.
+- Learning about Amazon's high standards for operational excellence.
+
+Benefits:
+- Competitive monthly stipend and relocation support.
+- A dedicated mentor to guide you through your internship.
+- Opportunity to work on challenging, real-world projects.
+- Networking events with other interns and senior leaders at Amazon.
+- Potential to receive a full-time return offer based on performance.
+- Subsidized meals and transportation.
+
+Interview Process:
+1. Online Coding Assessment: A 90-minute assessment on an online platform with 2-3 coding problems focused on data structures and algorithms.
+2. Technical Phone Screen: A 45-60 minute interview with an Amazon engineer where you will solve a coding problem live and discuss your approach.
+3. Final On-site/Virtual Interviews: A series of 3-4 back-to-back interviews covering more in-depth coding problems, system design concepts, and Amazon's Leadership Principles.
+
+Company Culture:
+Amazon's culture is built around our 16 Leadership Principles, with a strong focus on Customer Obsession. We are a company of builders who bring diverse backgrounds, ideas, and points of view to inventing on behalf of our customers. We are looking for interns who are curious, eager to learn, and ready to take ownership of their projects.
+
+Application Deadline: October 15, 2025
+
