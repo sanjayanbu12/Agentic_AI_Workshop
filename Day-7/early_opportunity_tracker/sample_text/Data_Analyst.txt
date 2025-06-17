@@ -1,0 +1,6 @@
+Role: Data Analyst Intern
+Company: Data Insights Inc.
+Location: Remote
+Job Description: We are looking for a motivated intern to help us with data cleaning, analysis, and visualization. You will work with our marketing and product teams to provide actionable insights.
+Key Skills: Strong proficiency in SQL and Python is a must. Experience with Data Analysis libraries like Pandas and NumPy is required. Familiarity with visualization tools like Tableau or Power BI is a plus.
+Deadline: September 15, 2025

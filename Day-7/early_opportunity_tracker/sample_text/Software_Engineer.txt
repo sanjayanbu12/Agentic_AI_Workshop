@@ -1,0 +1,6 @@
+Role: Software Development Engineer Intern
+Company: Innovatech Solutions, Coimbatore
+Eligibility: Must be a final-year student graduating in 2025 or 2026. Seeking a degree in Computer Science or equivalent. Must have a strong understanding of Data Structures and Algorithms.
+Required Skills: Python, Java, C++, Git.
+Benefits: Competitive stipend, mentorship from senior engineers, and a potential for a full-time offer.
+Deadline: August 30, 2025

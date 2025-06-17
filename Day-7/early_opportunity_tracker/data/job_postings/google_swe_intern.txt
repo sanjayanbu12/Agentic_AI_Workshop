@@ -1,0 +1,15 @@
+Role: Software Engineer Intern, 2025
+Company: Google
+Location: Bangalore, India
+
+Eligibility:
+- Currently pursuing a Bachelor's, Master's or PhD degree in Computer Science or a related technical field.
+- Must be a final-year student graduating in 2025.
+- Experience with one or more general-purpose programming languages: Python, Java, C++.
+
+Benefits:
+- Competitive salary and perks.
+- Opportunity to work on real-world projects.
+- Mentorship from experienced Google engineers.
+
+Deadline: October 30, 2024

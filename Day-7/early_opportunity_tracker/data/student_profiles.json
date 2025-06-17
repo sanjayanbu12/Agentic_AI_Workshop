@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sanjay_anbazhagan",
+    "name": "Sanjay Anbazhagan",
+    "skills": ["Python", "Machine Learning", "Data Analysis", "FastAPI", "TensorFlow", "PyTorch"],
+    "graduation_year": 2025
+  },
+  {
+    "id": "jane_doe",
+    "name": "Jane Doe",
+    "skills": ["JavaScript", "React", "Node.js", "TypeScript", "HTML/CSS", "MongoDB"],
+    "graduation_year": 2025
+  },
+  {
+    "id": "john_smith",
+    "name": "John Smith",
+    "skills": ["Java", "Spring Boot", "SQL", "Microservices", "AWS", "Docker"],
+    "graduation_year": 2026
+  }
+]
