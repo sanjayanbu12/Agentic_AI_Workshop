@@ -9,11 +9,20 @@ from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 
+# --- GOOGLE AI API KEY SETUP ---
+# IMPORTANT: Make sure to set your Google AI API key.
+# You can get a free key from Google AI Studio: https://aistudio.google.com/app/apikey
+# You can uncomment the line below and paste your key,
+# or set it as an environment variable.
 os.environ["GOOGLE_API_KEY"] = "AIzaSyB6O2Tgx0DotP_SMAI75pQMhSqb8WbUXH8" 
 
+# --- UI CONFIGURATION ---
 st.set_page_config(page_title="Dynamic Opportunity Tracker", layout="wide")
 st.title("🎓 Dynamic Early Opportunity Tracker")
 st.write("Upload new job postings via the sidebar and see them appear on the dashboard instantly.")
+
+# --- DYNAMIC RAG PIPELINE SETUP ---
+# We use session_state to store the RAG pipeline and update it dynamically.
 
 def initialize_rag_pipeline():
     """
@@ -21,7 +30,7 @@ def initialize_rag_pipeline():
     If not, it creates it from the job_postings directory.
     Stores the chain and db in Streamlit's session state.
     """
-    index_path = "faiss_index_gemini"
+    index_path = "faiss_index_gemini" # Use a different index for Gemini
     postings_dir = "job_postings"
     
     os.makedirs(postings_dir, exist_ok=True)
@@ -47,6 +56,7 @@ def initialize_rag_pipeline():
 
     st.session_state.db = db
 
+    # --- THIS IS THE KEY CHANGE: Use Google's Gemini model ---
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.1, convert_system_message_to_human=True)
     retriever = st.session_state.db.as_retriever()
     st.session_state.qa_chain = RetrievalQA.from_chain_type(
@@ -57,12 +67,15 @@ def initialize_rag_pipeline():
     )
     st.success("RAG Pipeline with Gemini AI Initialized and Ready!")
 
+# --- INITIALIZE ON FIRST RUN ---
 if 'qa_chain' not in st.session_state:
+    # Check for API key before initializing
     if not os.environ.get("GOOGLE_API_KEY"):
         st.error("🚨 Google AI API Key not found. Please set it in the script or as an environment variable.")
     else:
         initialize_rag_pipeline()
 
+# --- SIDEBAR FOR PROFILE AND UPLOADS ---
 st.sidebar.header("👤 Student Profile")
 student_name = st.sidebar.text_input("Your Name", "Sanjay Anbazhagan")
 student_skills = st.sidebar.multiselect(
@@ -92,6 +105,7 @@ if uploaded_file is not None and 'db' in st.session_state:
     st.sidebar.success(f"✅ Successfully added '{uploaded_file.name}'!")
     st.toast("New job added! The dashboard has been updated.")
 
+# --- HELPER FUNCTIONS ---
 def calculate_match_score(job_text, student_skills):
     score = 0
     job_text_lower = job_text.lower()
@@ -110,11 +124,13 @@ def parse_json_output(text):
     except (json.JSONDecodeError, IndexError):
         return {"Error": "Failed to parse AI response.", "RawOutput": text}
 
+# --- MAIN DASHBOARD UI ---
 st.header("📊 Shared Opportunities Dashboard")
 
 if 'job_status' not in st.session_state:
     st.session_state.job_status = {}
 
+# Ensure the app doesn't crash if the pipeline failed to initialize
 if 'db' in st.session_state:
     all_docs = st.session_state.db.similarity_search(query="job opportunity role company", k=50)
 
