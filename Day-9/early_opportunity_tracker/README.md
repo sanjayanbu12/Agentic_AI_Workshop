@@ -72,12 +72,7 @@ Before you begin, ensure you have the following installed:
 * **Git** ([Download Git](https://git-scm.com/downloads))
 * **A Google AI API Key** ([Get API Key](https://ai.google.dev/))
 
-### 2. Clone the Repository
-
-git clone https://github.com/yourusername/agentic-early-opportunity-tracker.git
-cd agentic-early-opportunity-tracker
-
-### 3. Environment Setup
+### 2. Environment Setup
 
 #### Create and activate a virtual environment:
 
@@ -89,7 +84,7 @@ source venv/bin/activate
 python -m venv venv
 .\venv\Scripts\activate
 
-### 4. Install Dependencies
+### 3. Install Dependencies
 
 **macOS/Linux:**
 pip3 install -r requirements.txt
@@ -97,12 +92,12 @@ pip3 install -r requirements.txt
 **Windows:**
 pip install -r requirements.txt
 
-### 5. Environment Configuration
+### 4. Environment Configuration
 
 Create a `.env` file in the root directory and add your API key:
 GOOGLE_API_KEY=your_google_api_key_here
 
-### 6. Run the Application
+### 5. Run the Application
 
 streamlit run main_app.py
 
