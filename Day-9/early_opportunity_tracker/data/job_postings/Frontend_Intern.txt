@@ -1,0 +1,7 @@
+Role: Frontend Developer Intern
+Company: WebWeavers Pvt Ltd.
+Eligibility: Open to all students with a passion for web development and a strong portfolio of projects.
+About the role: You will be working on our main client-facing web application, helping to build and test new user interface components.
+Skills Needed: HTML/CSS, JavaScript, and a modern framework like React or Vue.js. Experience with TypeScript is highly valued.
+Perks: Flexible work hours, free lunch, and a fun work environment.
+Deadline to Apply: July 25, 2025
